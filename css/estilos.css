@@ -28,9 +28,9 @@ header{
     height: 700px;
     background: #283048;  
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(197, 8%, 56%, 0.589), hsla(225, 29%, 22%, 0.61)), url(../images/lightbulb-1875247_1920.jpg);  
+    background: -webkit-linear-gradient(to right, hsla(197, 8%, 56%, 0.589), hsla(225, 29%, 22%, 0.61)), url(../images/mitos-sobre-la-electricidad2.jpg);  
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(197, 8%, 56%, 0.589), hsla(225, 29%, 22%, 0.61)), url(../images/lightbulb-1875247_1920.jpg); 
+    background: linear-gradient(to right, hsla(197, 8%, 56%, 0.589), hsla(225, 29%, 22%, 0.61)), url(../images/mitos-sobre-la-electricidad2.jpg); 
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
     background-size: cover;
     background-attachment: fixed;
@@ -78,6 +78,9 @@ header .textos-header{
     bottom: 0;
     width: 100%;
 }
+
+/* Acerca de */
+
 .contenedor-sobre-mi{
     display: flex;
     justify-content: space-evenly;
@@ -125,7 +128,7 @@ header .textos-header{
 }
 
 .imagenes-portafolio{
-    width: 33%;
+    width: 40%;
     margin-bottom: 10px;
     height: 150px;
     overflow: hidden;
