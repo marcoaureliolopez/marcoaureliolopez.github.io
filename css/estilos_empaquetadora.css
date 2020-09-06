@@ -115,3 +115,47 @@ header .textos-header{
     font-weight: 300;
     text-align: justify;
 }
+
+/* Footer */
+footer{
+    background: rgb(216, 216, 216);
+    padding: 10px 0 10px 0;
+    margin: auto;
+    overflow: hidden;
+}
+
+.contenedor-footer{
+    display: flex;
+    width: 90%;
+    height: 100px;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #283048;
+}
+
+.contenedor-footer .texto-foo h3{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2000;
+    width: 600px;
+    margin-bottom: 10px;
+}
+
+.contenedor-footer .texto-foo h5{
+    text-align: center;
+    font-size: medium;
+    font-weight: lighter;
+    width: 600px;
+}
+
+.content-foo{
+    display: inline-flex;
+    justify-items: center;
+}
+
+.content-foo img{
+    display: inline-flex;
+    width: 40%;
+    padding: 0px 0px 0px 15px;
+}
