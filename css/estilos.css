@@ -73,6 +73,7 @@ header .textos-header{
 .textos-header h2{
     font-size: 30px;
     color: aliceblue;
+    font-weight: lighter;
 }
 .wave{
     position: absolute;
@@ -88,7 +89,8 @@ header .textos-header{
 }
 
 .imagen-mi{
-    width: 48%;
+    width: 35%;
+    height: auto;
 }
 
 .sobre-mi .contenido-textos{

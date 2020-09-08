@@ -72,6 +72,7 @@ header .textos-header{
 .textos-header h2{
     font-size: 30px;
     color: aliceblue;
+    font-weight: lighter;
 }
 .wave{
     position: absolute;
