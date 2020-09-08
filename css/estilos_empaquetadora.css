@@ -116,6 +116,19 @@ header .textos-header{
     text-align: justify;
 }
 
+/* Evidencia */
+.imagenes-evidencia{
+    padding: 10px;
+}
+
+.imagenes-evidencia img{
+    width: 90%;
+    height: 90%;
+    align-content: center;
+    border: 0px solid;
+    box-shadow: 5px 10px 8px #888888;
+}
+
 /* Footer */
 footer{
     background: rgb(216, 216, 216);
